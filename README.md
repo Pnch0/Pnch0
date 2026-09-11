@@ -49,12 +49,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pnch0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&v=1" alt="Estadísticas de Francisco" height="195" />
-  <img src="https://streak-stats.demolab.com/?user=Pnch0&theme=radical&hide_border=true&v=1" alt="Racha de GitHub" height="195" />
-</div>
+
+[![Estadísticas de Francisco](https://github-readme-stats.vercel.app/api?username=Pnch0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&v=2)](#)
+[![Racha de GitHub](https://streak-stats.demolab.com/?user=Pnch0&theme=radical&hide_border=true&v=2)](#)
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnch0&layout=compact&theme=radical&langs_count=8&hide_border=true&v=1" alt="Lenguajes más usados" />
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pnch0&layout=compact&theme=radical&langs_count=8&hide_border=true&v=2)](#)
+
 </div>
