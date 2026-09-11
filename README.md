@@ -48,12 +48,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Francisco" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" alt="Racha de GitHub" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pnch0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Francisco" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pnch0&theme=radical&hide_border=true" alt="Racha de GitHub" height="195" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnch0&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Lenguajes más usados" />
 </div>
