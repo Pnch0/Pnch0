@@ -56,3 +56,11 @@
     <img src="https://img.shields.io/badge/Descargar_CV-252526?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Descargar CV" />
   </a>
 </div>
+
+<br>
+<h3 align="center">🐍 Mi actividad en GitHub</h3>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pnch0/Pnch0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
