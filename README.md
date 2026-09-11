@@ -42,3 +42,18 @@
 | :--- | :--- | :--- |
 | 📦 **[Sistema Gestor de Inventario](https://github.com/Pnch0/Gestion-Inventario)** | React, Node.js, Express, Supabase | Plataforma de administración web para el control de stock y recursos. Permite realizar operaciones CRUD completas, conectando una API propia estructurada con Express a una base de datos relacional para gestionar la información en tiempo real. |
 | 🎬 **[Plataforma de Streaming (Clon)](https://github.com/Pnch0/Clon-Netflix)** | React, Express, Supabase | Interfaz interactiva y altamente responsiva que replica la experiencia de navegación de las plataformas modernas. Cuenta con un sistema seguro de autenticación y registro de usuarios, además de una conexión optimizada entre cliente y servidor. |
+
+<br>
+<h3 align="center">📊 Mis Estadísticas de GitHub</h3>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Francisco" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" alt="Racha de GitHub" height="195" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Lenguajes más usados" />
+</div>
