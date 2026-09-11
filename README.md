@@ -1,17 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Full Stack web applications using React and Express.<br>Personal projects focused on strengthening my frontend and backend development skills.<br><br>👯 I’m looking to collaborate on<br><br>Web development projects.<br>Open Source initiatives.<br>Applications that solve real-world problems.<br><br>🤝 I’m looking for help with<br><br>Software architecture and best practices.<br>Building scalable and maintainable applications.<br>Cloud deployment and DevOps workflows.<br><br>🌱 I’m currently learning<br><br>Full Stack development through hands-on projects.<br>Advanced React patterns and backend development.<br>Modern tools and technologies used in real-world applications.<br><br>💬 Ask me about<br><br>React<br>JavaScript<br>Express.js<br>Frontend Development<br>REST APIs<br>Web Application Development<br><br>⚡ Fun fact<br><br>I'm a Computer Engineering student who started as an Analyst Programmer and enjoys learning by building real projects from scratch.
+# 👋 Hola, soy Francisco Espinoza
 
+**Analista Programador | Estudiante de Ingeniería Informática | Desarrollador Full-Stack**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pnch0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Pnch0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pnch0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Soy un desarrollador apasionado por el código limpio y la arquitectura de software eficiente. Me especializo en la creación de aplicaciones web full-stack dinámicas, integrando interfaces interactivas con bases de datos relacionales y APIs seguras. Disfruto enfrentando problemas técnicos complejos y tengo una gran facilidad para adquirir nuevas habilidades tecnológicas, lo que me permite adaptarme rápidamente a cualquier entorno de desarrollo. Busco siempre aportar proactividad, soluciones orientadas a resultados y trabajo colaborativo dentro de equipos ágiles.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pnch0&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+### 💻 Stack Tecnológico Principal
+* **Frontend:** React, JavaScript, HTML5, CSS3
+* **Backend:** Node.js, Express
+* **Base de Datos & Auth:** Supabase
+* **Herramientas:** Git, GitHub, REST APIs
