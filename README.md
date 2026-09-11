@@ -40,5 +40,5 @@
 
 | Proyecto / Repositorio | Tecnologías Utilizadas | ¿De qué trata? |
 | :--- | :--- | :--- |
-| 📦 **[Sistema Gestor de Inventario](#)** | React, Node.js, Express, Supabase | Plataforma de administración web para el control de stock y recursos. Permite realizar operaciones CRUD completas, conectando una API propia estructurada con Express a una base de datos relacional para gestionar la información en tiempo real. |
-| 🎬 **[Plataforma de Streaming (Clon)](#)** | React, Express, Supabase | Interfaz interactiva y altamente responsiva que replica la experiencia de navegación de las plataformas modernas. Cuenta con un sistema seguro de autenticación y registro de usuarios, además de una conexión optimizada entre cliente y servidor. |
+| 📦 **[Sistema Gestor de Inventario](https://github.com/Pnch0/Gestion-Inventario)** | React, Node.js, Express, Supabase | Plataforma de administración web para el control de stock y recursos. Permite realizar operaciones CRUD completas, conectando una API propia estructurada con Express a una base de datos relacional para gestionar la información en tiempo real. |
+| 🎬 **[Plataforma de Streaming (Clon)](https://github.com/Pnch0/Clon-Netflix)** | React, Express, Supabase | Interfaz interactiva y altamente responsiva que replica la experiencia de navegación de las plataformas modernas. Cuenta con un sistema seguro de autenticación y registro de usuarios, además de una conexión optimizada entre cliente y servidor. |
