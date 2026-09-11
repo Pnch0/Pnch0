@@ -1,13 +1,12 @@
-# 👋 Hola, soy Francisco Espinoza
+<div align="center">
+  <h1>
+    ¡Hola! Soy Francisco Espinoza 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h1>
 
-**Analista Programador | Estudiante de Ingeniería Informática | Desarrollador Full-Stack**
+  <h3>🚀 Analista Programador | Estudiante de Ingeniería Informática | Desarrollador Full-Stack</h3>
 
-Soy un desarrollador apasionado por el código limpio y la arquitectura de software eficiente. Me especializo en la creación de aplicaciones web full-stack dinámicas, integrando interfaces interactivas con bases de datos relacionales y APIs seguras. Disfruto enfrentando problemas técnicos complejos y tengo una gran facilidad para adquirir nuevas habilidades tecnológicas, lo que me permite adaptarme rápidamente a cualquier entorno de desarrollo. Busco siempre aportar proactividad, soluciones orientadas a resultados y trabajo colaborativo dentro de equipos ágiles.
-
----
-
-### 💻 Stack Tecnológico Principal
-* **Frontend:** React, JavaScript, HTML5, CSS3
-* **Backend:** Node.js, Express
-* **Base de Datos & Auth:** Supabase
-* **Herramientas:** Git, GitHub, REST APIs
+  <p>
+    Analista Programador enfocado en el desarrollo de aplicaciones web <b>Full-Stack</b> dinámicas, eficientes y escalables. Me apasiona escribir código limpio, diseñar arquitecturas modernas y resolver desafíos técnicos complejos conectando interfaces interactivas con servicios y bases de datos en tiempo real (React, Node.js, Supabase). Cuento con un aprendizaje ágil y alta adaptabilidad, siempre motivado por aportar proactividad, buenas prácticas y soluciones de impacto en equipos de desarrollo ágiles.
+  </p>
+</div>
