@@ -44,17 +44,15 @@
 | 📦 **[Sistema Gestor de Inventario](https://github.com/Pnch0/Gestion-Inventario)** | React, Node.js, Express, Supabase | Plataforma de administración web para el control de stock y recursos. Permite realizar operaciones CRUD completas, conectando una API propia estructurada con Express a una base de datos relacional para gestionar la información en tiempo real. |
 | 🎬 **[Plataforma de Streaming (Clon)](https://github.com/Pnch0/Clon-Netflix)** | React, Express, Supabase | Interfaz interactiva y altamente responsiva que replica la experiencia de navegación de las plataformas modernas. Cuenta con un sistema seguro de autenticación y registro de usuarios, además de una conexión optimizada entre cliente y servidor. |
 
-<br>
-<h3 align="center">📊 Mis Estadísticas de GitHub</h3>
-<br>
-
-<div align="center">
-
-[![Estadísticas de Francisco](https://github-readme-stats.vercel.app/api?username=Pnch0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&v=2)](#)
-[![Racha de GitHub](https://streak-stats.demolab.com/?user=Pnch0&theme=radical&hide_border=true&v=2)](#)
-
-<br>
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pnch0&layout=compact&theme=radical&langs_count=8&hide_border=true&v=2)](#)
-
+<h3>Medios de Contacto</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/francisco-espinoza-diaz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:francisco.espinozadi02@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.google.com/file/d/147g2YVzZDsS-lEw7aVpQxWMhAIzyfNWJ/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Descargar_CV-252526?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Descargar CV" />
+  </a>
 </div>
