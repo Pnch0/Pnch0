@@ -11,6 +11,7 @@
   </p>
 </div>
 <ul>
+  <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h3>
   <li><b>Lenguajes:</b></li>
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -48,12 +49,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pnch0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Francisco" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pnch0&theme=radical&hide_border=true" alt="Racha de GitHub" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pnch0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&v=1" alt="Estadísticas de Francisco" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=Pnch0&theme=radical&hide_border=true&v=1" alt="Racha de GitHub" height="195" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnch0&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnch0&layout=compact&theme=radical&langs_count=8&hide_border=true&v=1" alt="Lenguajes más usados" />
 </div>
